@@ -3,7 +3,11 @@
 ![Relationship](https://github.com/Allen123321/self-supervised_learning/blob/main/image.png)
 
 ## Papers
-1.Self-supervised Label Augmentation via Input Transformations.([paper.2019](https://arxiv.org/pdf/1910.05872.pdf)) <br>
+1.Self-supervised visual feature learning with deep neural networks: A survey.([paper.2019](https://arxiv.org/pdf/1902.06162.pdf)) <br>
+2.A Survey on Semi-, Self- and Unsupervised Learning for Image Classification([paper.2020](https://arxiv.org/pdf/2002.08721.pdf))<br>
+3.Self-supervised Learning: Generative or Contrastive.([paper.2020](https://arxiv.org/pdf/2006.08218.pdf)) <br>
+3.Self-supervised Label Augmentation via Input Transformations.([paper.2019](https://arxiv.org/pdf/1910.05872.pdf)) <br>
+
 
 ### Self-supervised && Representation Learning
 1.Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles.([paper.2016](https://arxiv.org/pdf/1603.09246.pdf)) <br>
