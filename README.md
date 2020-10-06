@@ -10,5 +10,5 @@
 2.Revisiting Self-Supervised Visual Representation Learning.([paper.2019](https://arxiv.org/pdf/1901.09005.pdf)) <br>
 3.**Momentum Contrast for Unsupervised Visual Representation Learning.**([paper.2019](https://arxiv.org/pdf/1911.05722.pdf)).([code](https://github.com/facebookresearch/moco))<br>
 4.Unsupervised Representation Learning by Predicting Image Rotations.([paper.2018](https://arxiv.org/pdf/1803.07728.pdf)).([code](https://github.com/gidariss/FeatureLearningRotNet)) <br>
-### understand self-supervised learning methods
+### understand self-supervised learning 
 1.Understanding Self-supervised Learning with Dual Deep Networks.([paper.2020](https://arxiv.org/pdf/2010.00578.pdf)) <br>
