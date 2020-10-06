@@ -8,3 +8,6 @@
 3.Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles.([paper.2016](https://arxiv.org/pdf/1603.09246.pdf)) <br>
 4.Revisiting Self-Supervised Visual Representation Learning.([paper.2019](https://arxiv.org/pdf/1901.09005.pdf)) <br>
 5.**Momentum Contrast for Unsupervised Visual Representation Learning.**([paper.2019](https://arxiv.org/pdf/1911.05722.pdf)).([code](https://github.com/facebookresearch/moco))<br>
+
+### understand self-supervised learning methods
+1.Understanding Self-supervised Learning with Dual Deep Networks.([paper.2020](https://arxiv.org/pdf/2010.00578.pdf))
