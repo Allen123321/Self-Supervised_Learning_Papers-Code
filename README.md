@@ -25,5 +25,15 @@
 ### Before SSL Revolution：Pretext Task(Rotation,Jigsaw Puzzle,Colorization)
 1.Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles.([paper.2016](https://arxiv.org/pdf/1603.09246.pdf)) <br>
 2.Unsupervised Representation Learning by Predicting Image Rotations.([paper.2018](https://arxiv.org/pdf/1803.07728.pdf)).([code](https://github.com/gidariss/FeatureLearningRotNet)) <br>
-### understand self-supervised learning 
+### Related papers
 1.Understanding Self-supervised Learning with Dual Deep Networks.([paper.2020](https://arxiv.org/pdf/2010.00578.pdf)) <br>
+2.Cross Pixel Optical Flow Similarity for Self-Supervised Learning.([paper.2018](https://arxiv.org/pdf/1807.05636.pdf)) <br>
+3.Cross and Learn: Cross-Modal Self-Supervision.([paper.2018](https://arxiv.org/abs/1811.03879)) <br>
+4.Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization.([paper.2018](https://arxiv.org/abs/1807.00230)) <br>
+5.Audio-Visual Scene Analysis with Self-Supervised Multisensory Features.([paper.2018](https://openaccess.thecvf.com/content_ECCV_2018/papers/Andrew_Owens_Audio-Visual_Scene_Analysis_ECCV_2018_paper.pdf)) <br>
+6.Self-Supervised Video Representation Learning with Space-Time Cubic Puzzles.([paper.2018](https://arxiv.org/abs/1811.09795)) <br>
+7.Self-Supervised Spatiotemporal Feature Learning via Video Rotation Prediction.([paper.2018](https://arxiv.org/pdf/1811.11387.pdf)) <br>
+8.Self-Supervised Video Representation Learning With Odd-One-Out Networks.([paper.2017](https://arxiv.org/abs/1611.06646)) <br>
+9.Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic Imagery.([paper.2017](https://arxiv.org/abs/1711.09082)) <br>
+10.Transitive invariance for self-supervised visual representation learning.([paper.2017](https://arxiv.org/abs/1708.02901)) <br>
+11.Improvements to context-based self-supervised learning.([paper.2017](https://arxiv.org/abs/1711.06379)) <br>
