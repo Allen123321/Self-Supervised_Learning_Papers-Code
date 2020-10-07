@@ -37,3 +37,6 @@
 9.Cross-Domain Self-supervised Multi-task Feature Learning using Synthetic Imagery.([paper.2017](https://arxiv.org/abs/1711.09082)) <br>
 10.Transitive invariance for self-supervised visual representation learning.([paper.2017](https://arxiv.org/abs/1708.02901)) <br>
 11.Improvements to context-based self-supervised learning.([paper.2017](https://arxiv.org/abs/1711.06379)) <br>
+12.Boosting Self-Supervised Learning via Knowledge Transfer.([paper.2018](https://arxiv.org/abs/1805.00385)) <br>
+13.Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.([paper.2018](https://arxiv.org/abs/1807.11293)) <br>
+14.Unsupervised Representation Learning by Predicting Image Rotations.([paper.2018](https://arxiv.org/abs/1803.07728)) <br>
