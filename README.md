@@ -25,6 +25,11 @@
 ### Before SSL Revolution：Pretext Task(Rotation,Jigsaw Puzzle,Colorization)
 1.Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles.([paper.2016](https://arxiv.org/pdf/1603.09246.pdf)) <br>
 2.Unsupervised Representation Learning by Predicting Image Rotations.([paper.2018](https://arxiv.org/pdf/1803.07728.pdf)).([code](https://github.com/gidariss/FeatureLearningRotNet)) <br>
+3.Context Encoders: Feature Learning by Inpainting.([paper.2016](https://arxiv.org/abs/1604.07379)) <br>
+4.Deep Clustering for Unsupervised Learning of Visual Features.([paper.2018](https://arxiv.org/abs/1807.05520)) <br>
+5.Shuffle and Learn: Unsupervised Learning using Temporal Order Verification.([paper.2016](https://arxiv.org/abs/1603.08561)) <br>
+6.Learning Features by Watching Objects Move.([paper.2016](https://arxiv.org/abs/1612.06370)) <br>
+7.Colorization as a proxy task for visual understanding.([paper.2017](https://arxiv.org/abs/1703.04044)) <br>
 ### Related papers
 1.Understanding Self-supervised Learning with Dual Deep Networks.([paper.2020](https://arxiv.org/pdf/2010.00578.pdf)) <br>
 2.Cross Pixel Optical Flow Similarity for Self-Supervised Learning.([paper.2018](https://arxiv.org/pdf/1807.05636.pdf)) <br>
