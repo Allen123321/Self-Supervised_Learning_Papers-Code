@@ -15,6 +15,7 @@
 10.**Bootstrap your own latent: A new approach to self-supervised Learning**([Paper.2020](https://arxiv.org/abs/2006.07733))(**BYOL**) <br>
 11.**Unsupervised Learning of Visual Features by Contrasting Cluster Assignments**([Paper.2020](https://arxiv.org/abs/2006.09882))(**Swav**)([Code](https://github.com/facebookresearch/swav)) <br>
 12.Self-Supervised Learning for Large-Scale Unsupervised Image Clustering.([Paper.2020](https://arxiv.org/abs/2006.09882))<br>
+13.Big Self-Supervised Models are Strong Semi-Supervised Learners.([Paper.2020](https://arxiv.org/abs/2006.10029))<br>
 ### Contrastive Self-supervised Learning
 1.A Framework For Contrastive Self-Supervised Learning And Designing A New Approach.([Paper.2020](https://arxiv.org/pdf/2009.00104.pdf))(Author:William Falcon) <br>
 2.Representation Learning with Contrastive Predictive Coding.([Paper.2018](https://arxiv.org/pdf/1807.03748.pdf).) (DeepMind)<br>
