@@ -31,6 +31,7 @@
 5.Shuffle and Learn: Unsupervised Learning using Temporal Order Verification.([paper.2016](https://arxiv.org/abs/1603.08561)) <br>
 6.Learning Features by Watching Objects Move.([paper.2016](https://arxiv.org/abs/1612.06370)) <br>
 7.Colorization as a proxy task for visual understanding.([paper.2017](https://arxiv.org/abs/1703.04044)) <br>
+8.Unsupervised Visual Representation Learning by Context Prediction.([paper.2015](https://arxiv.org/abs/1505.05192)) <br>
 ### Related papers
 1.Understanding Self-supervised Learning with Dual Deep Networks.([paper.2020](https://arxiv.org/pdf/2010.00578.pdf)) <br>
 2.Cross Pixel Optical Flow Similarity for Self-Supervised Learning.([paper.2018](https://arxiv.org/pdf/1807.05636.pdf)) <br>
