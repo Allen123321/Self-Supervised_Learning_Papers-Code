@@ -46,3 +46,5 @@
 12.Boosting Self-Supervised Learning via Knowledge Transfer.([paper.2018](https://arxiv.org/abs/1805.00385)) <br>
 13.Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.([paper.2018](https://arxiv.org/abs/1807.11293)) <br>
 14.Unsupervised Representation Learning by Predicting Image Rotations.([paper.2018](https://arxiv.org/abs/1803.07728)) <br>
+15.Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks.([paper.2014](https://arxiv.org/abs/1406.6909)) <br>
+16.Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination.([paper.2018](https://arxiv.org/abs/1805.01978)) <br>
