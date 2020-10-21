@@ -19,6 +19,7 @@
 14.Self-Supervised Learning of Pretext-Invariant Representations.([Paper.2019](https://arxiv.org/abs/1912.01991))<br>
 15.ClusterFit: Improving Generalization of Visual Representations.([Paper.2019](https://arxiv.org/abs/1912.03330))<br>
 16.Self-Supervised Domain Adaptation with Consistency Training.([Paper.2020](https://arxiv.org/abs/2010.07539))<br>
+
 ### Contrastive Self-supervised Learning
 1.A Framework For Contrastive Self-Supervised Learning And Designing A New Approach.([Paper.2020](https://arxiv.org/pdf/2009.00104.pdf))(Author:William Falcon) <br>
 2.Representation Learning with Contrastive Predictive Coding.([Paper.2018](https://arxiv.org/pdf/1807.03748.pdf).) (DeepMind)<br>
@@ -34,7 +35,6 @@
 5.Shuffle and Learn: Unsupervised Learning using Temporal Order Verification.([paper.2016](https://arxiv.org/abs/1603.08561)) <br>
 6.Learning Features by Watching Objects Move.([paper.2016](https://arxiv.org/abs/1612.06370)) <br>
 7.Colorization as a proxy task for visual understanding.([paper.2017](https://arxiv.org/abs/1703.04044)) <br>
-8.Unsupervised Visual Representation Learning by Context Prediction.([paper.2015](https://arxiv.org/abs/1505.05192)) <br>
 ### Related papers
 1.Understanding Self-supervised Learning with Dual Deep Networks.([paper.2020](https://arxiv.org/pdf/2010.00578.pdf)) <br>
 2.Cross Pixel Optical Flow Similarity for Self-Supervised Learning.([paper.2018](https://arxiv.org/pdf/1807.05636.pdf)) <br>
@@ -49,9 +49,18 @@
 11.Improvements to context-based self-supervised learning.([paper.2017](https://arxiv.org/abs/1711.06379)) <br>
 12.Boosting Self-Supervised Learning via Knowledge Transfer.([paper.2018](https://arxiv.org/abs/1805.00385)) <br>
 13.Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.([paper.2018](https://arxiv.org/abs/1807.11293)) <br>
-14.Unsupervised Representation Learning by Predicting Image Rotations.([paper.2018](https://arxiv.org/abs/1803.07728)) <br>
-15.Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks.([paper.2014](https://arxiv.org/abs/1406.6909)) <br>
-16.Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination.([paper.2018](https://arxiv.org/abs/1805.01978)) <br>
+14.Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks.([paper.2014](https://arxiv.org/abs/1406.6909)) <br>
 
-## blog
+### Unsupervised Learning
+1.Unsupervised Representation Learning by Predicting Image Rotations.([paper.2018](https://arxiv.org/abs/1803.07728)) <br>
+2.Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination.([paper.2018](https://arxiv.org/abs/1805.01978)) <br>
+3.Unsupervised Visual Representation Learning by Context Prediction.([paper.2015](https://arxiv.org/abs/1505.05192)) <br>
+#### Self-Supervised Learning & Unsupervised Learning with GAN
+1.Transformation GAN for Unsupervised Image Synthesis and Representation Learning.([Paper.CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transformation_GAN_for_Unsupervised_Image_Synthesis_and_Representation_Learning_CVPR_2020_paper.pdf)) <br>
+2.Self-Supervised Viewpoint Learning from Image Collections.([Paper.CVPR2020](https://arxiv.org/abs/2004.01793)) <br>
+3.Self-supervised Domain-aware Generative Network for Generalized Zero-shot learning.([Paper.CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Self-Supervised_Domain-Aware_Generative_Network_for_Generalized_Zero-Shot_Learning_CVPR_2020_paper.pdf)) <br>
+
+
+
+### blog
 [Self-Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
