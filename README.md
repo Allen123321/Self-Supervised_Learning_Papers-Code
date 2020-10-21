@@ -59,6 +59,9 @@
 1.Transformation GAN for Unsupervised Image Synthesis and Representation Learning.([Paper.CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transformation_GAN_for_Unsupervised_Image_Synthesis_and_Representation_Learning_CVPR_2020_paper.pdf)) <br>
 2.Self-Supervised Viewpoint Learning from Image Collections.([Paper.CVPR2020](https://arxiv.org/abs/2004.01793)) <br>
 3.Self-supervised Domain-aware Generative Network for Generalized Zero-shot learning.([Paper.CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wu_Self-Supervised_Domain-Aware_Generative_Network_for_Generalized_Zero-Shot_Learning_CVPR_2020_paper.pdf)) <br>
+4.PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models.([Paper.CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Menon_PULSE_Self-Supervised_Photo_Upsampling_via_Latent_Space_Exploration_of_Generative_CVPR_2020_paper.pdf)) <br>
+#### Multi-Modal
+Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.([Paper.CVPR2020](https://arxiv.org/abs/2001.09691)) <br>
 
 
 
