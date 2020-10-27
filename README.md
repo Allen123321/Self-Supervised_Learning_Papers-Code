@@ -26,6 +26,7 @@
 3.Data-Efficient Image Recognition with Contrastive Predictive.([Paper.2019](https://arxiv.org/pdf/1905.09272.pdf)) (**CPC**) <br>
 4.Contrastive Multiview Coding.([Paper.2019](https://arxiv.org/abs/1906.05849))<br>
 5.Learning deep representations by mutual information estimation and maximization.([Paper.2018](https://arxiv.org/abs/1808.06670)) (**AMDIM**)(ICLR 2019)<br>
+6.**Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs By Comparing Image Representations**([Paper.2020](https://arxiv.org/abs/2007.07423)) ([Code(C2L_MICCAI2020)](https://github.com/funnyzhou/C2L_MICCAI2020)<br>
 
 ### Before SSL Revolution：Pretext Task(Rotation,Jigsaw Puzzle,Colorization)
 1.Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles.([paper.2016](https://arxiv.org/pdf/1603.09246.pdf)) <br>
