@@ -53,6 +53,7 @@
 13.Improving Spatiotemporal Self-Supervision by Deep Reinforcement Learning.([paper.2018](https://arxiv.org/abs/1807.11293)) <br>
 14.Discriminative Unsupervised Feature Learning with Exemplar Convolutional Neural Networks.([paper.2014](https://arxiv.org/abs/1406.6909)) <br>
 15.Self-supervised Co-training for Video Representation Learning.([Paper.2020](https://arxiv.org/pdf/2010.09709.pdf)) <br>
+16.CURL: Contrastive Unsupervised Representations for Reinforcement Learning.([Paper.2020](https://arxiv.org/abs/2004.04136)) <br>
 
 ### Unsupervised Learning
 1.Unsupervised Representation Learning by Predicting Image Rotations.([paper.2018](https://arxiv.org/abs/1803.07728)) <br>
