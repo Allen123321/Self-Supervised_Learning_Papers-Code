@@ -8,6 +8,7 @@
 3.Self-supervised Learning: Generative or Contrastive.([paper.2020](https://arxiv.org/pdf/2006.08218.pdf)) <br>
 4.A Framework For Contrastive Self-Supervised Learning And Designing A New Approach.([Paper.2020](https://arxiv.org/pdf/2009.00104.pdf)) <br>
 5.**Momentum Contrast for Unsupervised Visual Representation Learning.**([paper.2019](https://arxiv.org/pdf/1911.05722.pdf)).([code](https://github.com/facebookresearch/moco)) (**MOCO  State-of-The-Art**)<br>
+5.1**Improved Baselines with Momentum Contrastive Learning**([paper.2020](https://arxiv.org/abs/2003.04297)). (**MOCO V2**)<br>
 6.Revisiting Self-Supervised Visual Representation Learning.([paper.2019](https://arxiv.org/pdf/1901.09005.pdf)) <br>
 7.Self-supervised Label Augmentation via Input Transformations.([paper.2019](https://arxiv.org/pdf/1910.05872.pdf)) <br>
 8.**A Simple Framework for Contrastive Learning of Visual Representations.** ([Paper.2020](https://arxiv.org/abs/2002.05709))(**[SimCLR](https://github.com/google-research/simclr)**)(**State-of-The-Art.**) <br>
