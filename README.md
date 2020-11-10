@@ -20,7 +20,8 @@
 14.Self-Supervised Learning of Pretext-Invariant Representations.([Paper.2019](https://arxiv.org/abs/1912.01991))<br>
 15.ClusterFit: Improving Generalization of Visual Representations.([Paper.2019](https://arxiv.org/abs/1912.03330))<br>
 16.Self-Supervised Domain Adaptation with Consistency Training.([Paper.2020](https://arxiv.org/abs/2010.07539))<br>
-17.Scaling and Benchmarking Self-Supervised Visual Representation Learning.([Paper.2019])(https://arxiv.org/abs/1905.01235))<br>
+17.Scaling and Benchmarking Self-Supervised Visual Representation Learning.([Paper.2019](https://arxiv.org/abs/1905.01235))<br>
+18.Self-Supervised Learning of Pretext-Invariant Representations.([Paper.2020](https://arxiv.org/abs/1912.01991))<br>
 
 ### Contrastive Self-supervised Learning
 1.A Framework For Contrastive Self-Supervised Learning And Designing A New Approach.([Paper.2020](https://arxiv.org/pdf/2009.00104.pdf))(Author:William Falcon) <br>
