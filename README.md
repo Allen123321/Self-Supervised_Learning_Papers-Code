@@ -3,6 +3,12 @@
 ![Relationship](https://github.com/Allen123321/self-supervised_learning/blob/main/image.png)
 
 ## Papers
+### NeurIPS 2020
+1.Unsupervised Representation Learning by InvariancePropagation.([Paper](https://arxiv.org/abs/2010.11694)) <br>
+2.Hard Negative Mixing for Contrastive Learning.([Paper](https://arxiv.org/abs/2010.01028)) <br>
+3.Debiased Contrastive Learning.([Paper](https://arxiv.org/abs/2007.00224)) <br>
+4.CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances.([Paper](https://arxiv.org/abs/2007.08176)) <br>
+### recently
 1.Self-supervised visual feature learning with deep neural networks: A survey.([paper.2019](https://arxiv.org/pdf/1902.06162.pdf)) <br>
 2.A Survey on Semi-, Self- and Unsupervised Learning for Image Classification([paper.2020](https://arxiv.org/pdf/2002.08721.pdf))<br>
 3.Self-supervised Learning: Generative or Contrastive.([paper.2020](https://arxiv.org/pdf/2006.08218.pdf)) <br>
