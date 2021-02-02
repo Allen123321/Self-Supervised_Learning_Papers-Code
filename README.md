@@ -3,6 +3,8 @@
 ![Relationship](https://github.com/Allen123321/self-supervised_learning/blob/main/image.png)
 
 ## Papers
+### Papers 2021
++ Self-Supervised Representation Learning for RGB-D Salient Object Detection([Paper](https://arxiv.org/pdf/2101.12482.pdf)) <br>
 ### NeurIPS 2020
 1.Unsupervised Representation Learning by InvariancePropagation.([Paper](https://arxiv.org/abs/2010.11694)) <br>
 2.Hard Negative Mixing for Contrastive Learning.([Paper](https://arxiv.org/abs/2010.01028)) <br>
