@@ -87,3 +87,8 @@ Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.([Paper.CVPR20
 
 ### blog
 [Self-Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
+
+### codes
+PyTorch-BYOL(PyTorch implementation of Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning.)([code_1](https://github.com/sthalles/PyTorch-BYOL)).([code_2](https://github.com/lucidrains/byol-pytorch))
+
+
