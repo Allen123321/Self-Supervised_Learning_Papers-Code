@@ -8,9 +8,10 @@
 + Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis ([Paper](https://arxiv.org/abs/2102.04830)) ([Code](https://github.com/thuiar/Self-MM))<br>
 + Understanding self-supervised Learning Dynamics without Contrastive Pairs ([Paper](https://arxiv.org/pdf/2102.06810.pdf)) ([Code](https://github.com/facebookresearch/luckmatters/tree/master/ssl))<br>
 + Self-supervised Learning from a Multi-view Perspective.([Paper](https://arxiv.org/abs/2006.05576))(**ICLR 2021**)
-+ Contrast to Divide: self-supervised pre-training for learning with noisy labels.([Paper](https://openreview.net/pdf?id=uB5x7Y2qsFR))(**ICLR 2021**)
++ Contrast to Divide: self-supervised pre-training for learning with noisy labels.([Paper](https://openreview.net/pdf?id=uB5x7Y2qsFR))(**ICLR 2021**)(**[Code]**(https://github.com/ContrastToDivide/C2D))
 + Self-Supervised Variational Auto-Encoders.([Paper](https://arxiv.org/abs/2010.02014))(**ICLR 2021**)
 ### NeurIPS 2020
++ Self-Supervised Relational Reasoning for Representation Learning.([Paper.2020](https://arxiv.org/pdf/2006.05849.pdf))(**[Code](https://github.com/mpatacchiola/self-supervised-relational-reasoning)**) <br>
 1.Unsupervised Representation Learning by InvariancePropagation.([Paper](https://arxiv.org/abs/2010.11694)) <br>
 2.Hard Negative Mixing for Contrastive Learning.([Paper](https://arxiv.org/abs/2010.01028)) <br>
 3.Debiased Contrastive Learning.([Paper](https://arxiv.org/abs/2007.00224)) <br>
@@ -55,7 +56,7 @@
 6.Learning Features by Watching Objects Move.([paper.2016](https://arxiv.org/abs/1612.06370)) <br>
 7.Colorization as a proxy task for visual understanding.([paper.2017](https://arxiv.org/abs/1703.04044)) <br>
 ### Related papers
-1.Understanding Self-supervised Learning with Dual Deep Networks.([paper.2020](https://arxiv.org/pdf/2010.00578.pdf)) <br>
+1.Understanding Self-supervised Learning with Dual Deep Networks.([paper.2020](https://arxiv.org/pdf/2010.00578.pdf))(**[Code](https://github.com/facebookresearch/luckmatters/tree/master/ssl)**) <br>
 2.Cross Pixel Optical Flow Similarity for Self-Supervised Learning.([paper.2018](https://arxiv.org/pdf/1807.05636.pdf)) <br>
 3.Cross and Learn: Cross-Modal Self-Supervision.([paper.2018](https://arxiv.org/abs/1811.03879)) <br>
 4.Cooperative Learning of Audio and Video Models from Self-Supervised Synchronization.([paper.2018](https://arxiv.org/abs/1807.00230)) <br>
@@ -91,6 +92,12 @@ Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.([Paper.CVPR20
 [Self-Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
 
 ### codes
-PyTorch-BYOL(PyTorch implementation of Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning.)([code_1](https://github.com/sthalles/PyTorch-BYOL)).([code_2](https://github.com/lucidrains/byol-pytorch))
++ PyTorch-BYOL(PyTorch implementation of Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning.)([code_1](https://github.com/sthalles/PyTorch-BYOL)).([code_2](https://github.com/lucidrains/byol-pytorch))
++ BYOL-tensorflow2 on CIFAR-10 dataset.([Code](https://github.com/garder14/byol-tensorflow2))
++ SimCLR-TensorFlow2 on CIFAR-10 dataset.([Code](https://github.com/garder14/simclr-tensorflow2))
++ PyTorch-DIM(self-supervised learning with Deep InfoMax)([Code](https://github.com/ZhaoyangLi-nju/Self-supervised-DIM_stl10))
+### dataset
++ [STL10](https://cs.stanford.edu/~acoates/stl10/)
++ [CIFAR-10]
 
 
