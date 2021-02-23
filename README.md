@@ -96,6 +96,7 @@ Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.([Paper.CVPR20
 + BYOL-tensorflow2 on CIFAR-10 dataset.([Code](https://github.com/garder14/byol-tensorflow2))
 + SimCLR-TensorFlow2 on CIFAR-10 dataset.([Code](https://github.com/garder14/simclr-tensorflow2))
 + PyTorch-DIM(self-supervised learning with Deep InfoMax)([Code](https://github.com/ZhaoyangLi-nju/Self-supervised-DIM_stl10))
++ MOCO -> CIFAR demo on Colab GPU.([MOCO](https://colab.research.google.com/github/facebookresearch/moco/blob/colab-notebook/colab/moco_cifar10_demo.ipynb))
 ### Dataset
 + [STL10](https://cs.stanford.edu/~acoates/stl10/)
 + [CIFAR-10]
