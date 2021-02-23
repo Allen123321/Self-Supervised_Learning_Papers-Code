@@ -38,6 +38,7 @@
 
 ### Contrastive Self-supervised Learning
 + Understanding Contrastive Representation Learning through Alignment and Uniformity on the Hypersphere ([Paper.2020](https://arxiv.org/abs/2005.10242)) **(ICML)**<br>
++ What Makes for Good Views for Contrastive Learning?([Paper.2020](https://arxiv.org/pdf/2005.10243.pdf))<br>
 1.A Framework For Contrastive Self-Supervised Learning And Designing A New Approach.([Paper.2020](https://arxiv.org/pdf/2009.00104.pdf))(Author:William Falcon) <br>
 2.Representation Learning with Contrastive Predictive Coding.([Paper.2018](https://arxiv.org/pdf/1807.03748.pdf).) (DeepMind)<br>
 3.Data-Efficient Image Recognition with Contrastive Predictive.([Paper.2019](https://arxiv.org/pdf/1905.09272.pdf)) (**CPC**) <br>
