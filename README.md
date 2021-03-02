@@ -10,7 +10,7 @@
 + Self-supervised Learning from a Multi-view Perspective.([Paper](https://arxiv.org/abs/2006.05576))(**ICLR 2021**)
 + Contrast to Divide: self-supervised pre-training for learning with noisy labels.([Paper](https://openreview.net/pdf?id=uB5x7Y2qsFR))(**ICLR 2021**)(**[Code](https://github.com/ContrastToDivide/C2D)**)
 + Self-Supervised Variational Auto-Encoders.([Paper](https://arxiv.org/abs/2010.02014))(**ICLR 2021**)
-+ Dense Contrastive Learning for Self-Supervised Visual Pre-Training.([Paper](https://arxiv.org/abs/2011.09157))(**CVPR 2021**)(**[Code](https://github.com/CoinCheung/denseCL)**) <br>
++ Dense Contrastive Learning for Self-Supervised Visual Pre-Training.([Paper](https://arxiv.org/abs/2011.09157))(**CVPR 2021**)(**[Code](https://github.com/CoinCheung/denseCL)**)([blog](https://blog.csdn.net/Jesse_08/article/details/111089264)) <br>
 ### NeurIPS 2020
 + Self-Supervised Relational Reasoning for Representation Learning.([Paper.2020](https://arxiv.org/pdf/2006.05849.pdf))(**[Code](https://github.com/mpatacchiola/self-supervised-relational-reasoning)**) <br>
 1.Unsupervised Representation Learning by InvariancePropagation.([Paper](https://arxiv.org/abs/2010.11694)) <br>
