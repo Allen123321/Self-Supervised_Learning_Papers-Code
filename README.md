@@ -13,6 +13,7 @@
 + Dense Contrastive Learning for Self-Supervised Visual Pre-Training.([Paper](https://arxiv.org/abs/2011.09157))(**CVPR 2021**)(**[Code](https://github.com/CoinCheung/denseCL)**)([blog](https://blog.csdn.net/Jesse_08/article/details/111089264)) <br>
 + There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge.([Paper](https://arxiv.org/abs/2103.01353))(**CVPR 2021**)
 + AdCo: Adversarial Contrast for Efficient Learning of Unsupervised Representations from Self-Trained Negative Adversaries.([Paper](https://arxiv.org/abs/2011.08435))(**CVPR 2021**)(**[Code](https://github.com/maple-research-lab/AdCo)**)
++ Barlow Twins: Self-Supervised Learning via Redundancy Reduction.([Paper](https://arxiv.org/abs/2103.03230))
 ### NeurIPS 2020
 + Self-Supervised Relational Reasoning for Representation Learning.([Paper.2020](https://arxiv.org/pdf/2006.05849.pdf))(**[Code](https://github.com/mpatacchiola/self-supervised-relational-reasoning)**) <br>
 1.Unsupervised Representation Learning by InvariancePropagation.([Paper](https://arxiv.org/abs/2010.11694)) <br>
