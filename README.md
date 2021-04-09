@@ -20,6 +20,7 @@
 + Efficient Visual Pretraining with Contrastive Detection. ([Paper](https://arxiv.org/pdf/2103.10957.pdf))
 + Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning.([Paper](https://arxiv.org/abs/2011.10043))
 + An Empirical Study of Training Self-Supervised Visual Transformers.([Paper](https://arxiv.org/abs/2104.02057))(**MOCO v3**)
++ SiT: Self-supervised vIsion Transformer.([Paper](https://arxiv.org/abs/2104.03602))(Transformer)
 ### NeurIPS 2020
 + Self-Supervised Relational Reasoning for Representation Learning.([Paper.2020](https://arxiv.org/pdf/2006.05849.pdf))(**[Code](https://github.com/mpatacchiola/self-supervised-relational-reasoning)**) <br>
 1.Unsupervised Representation Learning by InvariancePropagation.([Paper](https://arxiv.org/abs/2010.11694)) <br>
