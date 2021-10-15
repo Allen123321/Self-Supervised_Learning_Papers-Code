@@ -85,10 +85,12 @@
 16.CURL: Contrastive Unsupervised Representations for Reinforcement Learning.([Paper.2020](https://arxiv.org/abs/2004.04136)) <br>
 
 ### Unsupervised Learning
-+ SCAN: Learning to Classify Images without Labels([Paper 2020 ECCV](https://arxiv.org/pdf/2005.12320.pdf))**([code](https://github.com/wvangansbeke/Unsupervised-Classification))** <br>
+
 1.Unsupervised Representation Learning by Predicting Image Rotations.([paper.2018](https://arxiv.org/abs/1803.07728)) <br>
 2.Unsupervised Feature Learning via Non-Parametric Instance-level Discrimination.**(Memory Bank)**([paper.2018](https://arxiv.org/abs/1805.01978)) <br>
 3.Unsupervised Visual Representation Learning by Context Prediction.([paper.2015](https://arxiv.org/abs/1505.05192)) <br>
+4.SCAN: Learning to Classify Images without Labels([Paper 2020 ECCV](https://arxiv.org/pdf/2005.12320.pdf))**([code](https://github.com/wvangansbeke/Unsupervised-Classification))** <br>
+
 #### Self-Supervised Learning & Unsupervised Learning with GAN
 1.Transformation GAN for Unsupervised Image Synthesis and Representation Learning.([Paper.CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Transformation_GAN_for_Unsupervised_Image_Synthesis_and_Representation_Learning_CVPR_2020_paper.pdf)) <br>
 2.Self-Supervised Viewpoint Learning from Image Collections.([Paper.CVPR2020](https://arxiv.org/abs/2004.01793)) <br>
