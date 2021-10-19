@@ -22,11 +22,11 @@
 + An Empirical Study of Training Self-Supervised Visual Transformers.([Paper](https://arxiv.org/abs/2104.02057))(**MOCO v3**)
 + SiT: Self-supervised vIsion Transformer.([Paper](https://arxiv.org/abs/2104.03602))(Transformer)
 ### NeurIPS 2020
-+ Self-Supervised Relational Reasoning for Representation Learning.([Paper.2020](https://arxiv.org/pdf/2006.05849.pdf))(**[Code](https://github.com/mpatacchiola/self-supervised-relational-reasoning)**) <br>
 1.Unsupervised Representation Learning by InvariancePropagation.([Paper](https://arxiv.org/abs/2010.11694)) <br>
 2.Hard Negative Mixing for Contrastive Learning.([Paper](https://arxiv.org/abs/2010.01028)) <br>
 3.Debiased Contrastive Learning.([Paper](https://arxiv.org/abs/2007.00224)) <br>
 4.CSI: Novelty Detection via Contrastive Learning on Distributionally Shifted Instances.([Paper](https://arxiv.org/abs/2007.08176)) <br>
+5.Self-Supervised Relational Reasoning for Representation Learning.([Paper.2020](https://arxiv.org/pdf/2006.05849.pdf))(**[Code](https://github.com/mpatacchiola/self-supervised-relational-reasoning)**) <br>
 ### recently
 1.Self-supervised visual feature learning with deep neural networks: A survey.([paper.2019](https://arxiv.org/pdf/1902.06162.pdf)) <br>
 2.A Survey on Semi-, Self- and Unsupervised Learning for Image Classification([paper.2020](https://arxiv.org/pdf/2002.08721.pdf))<br>
@@ -103,7 +103,8 @@ Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.([Paper.CVPR20
 
 ### SSL Blog
 [Self-Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)<br>
-[Self-Supervised Learning 超详细解读 (一)：大规模预训练模型BERT](https://zhuanlan.zhihu.com/p/378360224)
+[Self-Supervised Learning 超详细解读 (一)：大规模预训练模型BERT](https://zhuanlan.zhihu.com/p/378360224)<br>
+[Self-Supervised Learning 超详细解读 (二)：SimCLR系列](https://zhuanlan.zhihu.com/p/378953015)<br>
 ## Codes-Example
 + PyTorch-BYOL(PyTorch implementation of Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning.)([code_1](https://github.com/sthalles/PyTorch-BYOL)).([code_2](https://github.com/lucidrains/byol-pytorch))
 + BYOL-tensorflow2 on CIFAR-10 dataset.([Code](https://github.com/garder14/byol-tensorflow2))
