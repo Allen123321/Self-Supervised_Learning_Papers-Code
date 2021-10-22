@@ -105,6 +105,8 @@ Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.([Paper.CVPR20
 [Self-Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)<br>
 [Self-Supervised Learning 超详细解读 (一)：大规模预训练模型BERT](https://zhuanlan.zhihu.com/p/378360224)<br>
 [Self-Supervised Learning 超详细解读 (二)：SimCLR系列](https://zhuanlan.zhihu.com/p/378953015)<br>
+[Self-Supervised Learning 超详细解读 (三)：视觉BERT预训练模型](https://zhuanlan.zhihu.com/p/381345343)<br>
+
 ## Codes-Example
 + PyTorch-BYOL(PyTorch implementation of Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning.)([code_1](https://github.com/sthalles/PyTorch-BYOL)).([code_2](https://github.com/lucidrains/byol-pytorch))
 + BYOL-tensorflow2 on CIFAR-10 dataset.([Code](https://github.com/garder14/byol-tensorflow2))
@@ -117,6 +119,6 @@ Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.([Paper.CVPR20
 
 ### Related blog -> Vision Transformer
 
-[Vision Transformer 超详细解读 (原理分析+代码解读) (一)](https://zhuanlan.zhihu.com/p/340149804)
-
+[Vision Transformer 超详细解读 (原理分析+代码解读) (一)](https://zhuanlan.zhihu.com/p/340149804)<br>
+[变分自编码器VAE：原来是这么一回事](https://spaces.ac.cn/archives/5253)<br>
 
