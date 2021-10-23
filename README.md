@@ -103,6 +103,7 @@ Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.([Paper.CVPR20
 
 ### SSL Blog
 [Self-Supervised Representation Learning](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)<br>
+[Contrastive Representation Learning](https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html)<br>
 [Self-Supervised Learning 超详细解读 (一)：大规模预训练模型BERT](https://zhuanlan.zhihu.com/p/378360224)<br>
 [Self-Supervised Learning 超详细解读 (二)：SimCLR系列](https://zhuanlan.zhihu.com/p/378953015)<br>
 [Self-Supervised Learning 超详细解读 (三)：视觉BERT预训练模型](https://zhuanlan.zhihu.com/p/381345343)<br>
