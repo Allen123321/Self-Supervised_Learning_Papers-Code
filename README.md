@@ -21,6 +21,7 @@
 + Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning.([Paper](https://arxiv.org/abs/2011.10043))
 + An Empirical Study of Training Self-Supervised Visual Transformers.([Paper](https://arxiv.org/abs/2104.02057))(**MOCO v3**)
 + SiT: Self-supervised vIsion Transformer.([Paper](https://arxiv.org/abs/2104.03602))(Transformer)
++ BYOL works even without batch statistics.([Paper](https://arxiv.org/pdf/2010.10241.pdf))
 ### NeurIPS 2020
 1.Unsupervised Representation Learning by InvariancePropagation.([Paper](https://arxiv.org/abs/2010.11694)) <br>
 2.Hard Negative Mixing for Contrastive Learning.([Paper](https://arxiv.org/abs/2010.01028)) <br>
