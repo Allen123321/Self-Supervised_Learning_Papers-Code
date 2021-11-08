@@ -4,6 +4,7 @@
 
 ## Papers
 ### Papers 2021
++ MST: Masked Self-Supervised Transformer for Visual Representation.([Paper](https://arxiv.org/abs/2106.05656))(**NeurIPS 2021**) <br>
 + Self-Supervised Learning with Swin Transformers.([Paper](https://arxiv.org/pdf/2105.04553.pdf))([Code](https://github.com/SwinTransformer/Transformer-SSL)) <br>
 + Self-Supervised Representation Learning for RGB-D Salient Object Detection([Paper](https://arxiv.org/pdf/2101.12482.pdf)) <br>
 + Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis ([Paper](https://arxiv.org/abs/2102.04830)) ([Code](https://github.com/thuiar/Self-MM))<br>
