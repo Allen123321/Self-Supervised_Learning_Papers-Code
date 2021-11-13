@@ -5,6 +5,7 @@
 ## Papers
 ### Papers 2021
 + Masked Autoencoders Are Scalable Vision Learners.([Paper](https://arxiv.org/pdf/2111.06377.pdf))<br>
++ BEiT: BERT Pre-Training of Image Transformers.([Paper](https://arxiv.org/abs/2106.08254))([Code](https://github.com/microsoft/unilm/tree/master/beit))<br>
 + Credal Self-Supervised Learning.([Paper](https://arxiv.org/abs/2106.11853))([Code](https://github.com/julilien/cssl)) (**NeurIPS 2021**) <br>
 + MST: Masked Self-Supervised Transformer for Visual Representation.([Paper](https://arxiv.org/abs/2106.05656))(**NeurIPS 2021**) <br>
 + Self-Supervised Learning with Swin Transformers.([Paper](https://arxiv.org/pdf/2105.04553.pdf))([Code](https://github.com/SwinTransformer/Transformer-SSL)) <br>
