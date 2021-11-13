@@ -117,6 +117,9 @@ Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.([Paper.CVPR20
 [Self-Supervised Learning 超详细解读 (四)：MoCo系列解读 (1)](https://zhuanlan.zhihu.com/p/382763210)<br>
 [Self-Supervised Learning 超详细解读 (五)：MoCo系列解读 (2)](https://zhuanlan.zhihu.com/p/383661584)<br>
 
+### SSL code library
++ [vissl](https://github.com/facebookresearch/vissl)<br>
+
 ## Codes-Example
 + PyTorch-BYOL(PyTorch implementation of Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning.)([code_1](https://github.com/sthalles/PyTorch-BYOL)).([code_2](https://github.com/lucidrains/byol-pytorch))
 + BYOL-tensorflow2 on CIFAR-10 dataset.([Code](https://github.com/garder14/byol-tensorflow2))
