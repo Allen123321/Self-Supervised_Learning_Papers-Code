@@ -4,6 +4,7 @@
 
 ## Papers
 ### Papers 2021
++ iBOT: Image BERT Pre-Training with Online Tokenizer.([Paper](https://arxiv.org/abs/2111.07832))<br>
 + Masked Autoencoders Are Scalable Vision Learners.([Paper](https://arxiv.org/pdf/2111.06377.pdf))<br>
 + BEiT: BERT Pre-Training of Image Transformers.([Paper](https://arxiv.org/abs/2106.08254))([Code](https://github.com/microsoft/unilm/tree/master/beit))<br>
 + Emerging Properties in Self-Supervised Vision Transformers.([Paper](https://arxiv.org/pdf/2104.14294.pdf))([Code](https://github.com/facebookresearch/dino))<br>
@@ -116,6 +117,7 @@ Multi-Modal Domain Adaptation for Fine-Grained Action Recognition.([Paper.CVPR20
 [Self-Supervised Learning 超详细解读 (三)：视觉BERT预训练模型](https://zhuanlan.zhihu.com/p/381345343)<br>
 [Self-Supervised Learning 超详细解读 (四)：MoCo系列解读 (1)](https://zhuanlan.zhihu.com/p/382763210)<br>
 [Self-Supervised Learning 超详细解读 (五)：MoCo系列解读 (2)](https://zhuanlan.zhihu.com/p/383661584)<br>
+[Self-Supervised Learning 超详细解读 (六)：MAE：通向CV大模型](https://zhuanlan.zhihu.com/p/432950958)<br>
 
 ### SSL code library
 + [vissl](https://github.com/facebookresearch/vissl)<br>
