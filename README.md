@@ -7,6 +7,10 @@
 + SimMIM: A Simple Framework for Masked Image Modeling.([Paper](https://arxiv.org/abs/2111.09886))<br>
 + iBOT: Image BERT Pre-Training with Online Tokenizer.([Paper](https://arxiv.org/abs/2111.07832))<br>
 + Masked Autoencoders Are Scalable Vision Learners.([Paper](https://arxiv.org/pdf/2111.06377.pdf))<br>
++ S2-BNN: Bridging the Gap Between Self-Supervised Real and 1-bit Neural Networks via Guided Distribution Calibration.([Paper](https://arxiv.org/abs/2102.08946))([Code](https://github.com/szq0214/S2-BNN))<br>
++ Pushing the limits of self-supervised ResNets: Can we outperform supervised learning without labels on ImageNet?((**ReLICv2**)[Paper](https://arxiv.org/abs/2201.05119))
++ Credal Self-Supervised Learning.([Paper](https://arxiv.org/abs/2106.11853))
++ RestoreDet: Degradation Equivariant Representation for Object Detection in Low Resolution Images.([Paper](https://arxiv.org/abs/2201.02314))
 + BEiT: BERT Pre-Training of Image Transformers.([Paper](https://arxiv.org/abs/2106.08254))([Code](https://github.com/microsoft/unilm/tree/master/beit))<br>
 + Emerging Properties in Self-Supervised Vision Transformers.([Paper](https://arxiv.org/pdf/2104.14294.pdf))([Code](https://github.com/facebookresearch/dino))<br>
 + Credal Self-Supervised Learning.([Paper](https://arxiv.org/abs/2106.11853))([Code](https://github.com/julilien/cssl)) (**NeurIPS 2021**) <br>
@@ -30,6 +34,12 @@
 + An Empirical Study of Training Self-Supervised Visual Transformers.([Paper](https://arxiv.org/abs/2104.02057))(**MOCO v3**)
 + SiT: Self-supervised vIsion Transformer.([Paper](https://arxiv.org/abs/2104.03602))(Transformer)
 + BYOL works even without batch statistics.([Paper](https://arxiv.org/pdf/2010.10241.pdf))
++ Dense Semantic Contrast for Self-Supervised Visual Representation Learning.([Paper](https://arxiv.org/pdf/2109.07756.pdf))
++ Self-Supervised Pre-Training of Swin Transformers for 3D Medical Image Analysis.([Paper](https://arxiv.org/abs/2111.14791))
++ InsCLR: Improving Instance Retrieval with Self-Supervision.([Paper](https://arxiv.org/abs/2112.01390))
++ Contextualized Spatio-Temporal Contrastive Learning with Self-Supervision.([Paper](https://arxiv.org/abs/2112.05181))
++ Unified 2D and 3D Pre-training for Medical Image classification and Segmentation.([Paper](https://arxiv.org/abs/2112.09356))
++ **Hybrid BYOL-ViT: Efficient approach to deal with small datasets**.([Paper](https://arxiv.org/abs/2111.04845))
 ### NeurIPS 2020
 1.Unsupervised Representation Learning by InvariancePropagation.([Paper](https://arxiv.org/abs/2010.11694)) <br>
 2.Hard Negative Mixing for Contrastive Learning.([Paper](https://arxiv.org/abs/2010.01028)) <br>
